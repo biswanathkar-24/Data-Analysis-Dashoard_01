@@ -1,5 +1,4 @@
 # Data-Analysis-Dashoard_01
-I have developed a interactive dashboard of a grocery store to analyze the sales of the store using MS EXCEL.
 
 ## Objective
 To analyze the sales data of a grocery store.
