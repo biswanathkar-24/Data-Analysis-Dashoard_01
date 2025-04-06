@@ -26,10 +26,10 @@ This is the output dashoard.To see click on
 
 
 ## Project Insights
--Women customers are more likely to buy product than Men(~69%).
--Maharasthra,Karnataka,Utter Pradesh are top 3 product buying states in India in 2022.
--Most of the orders are posted through Amazon,Myntra and Flipkart chanel.
--January, February and March in this 3 months customers posted maximum numbers of orders.
--Maximum numbers of ordered are delevered.(~92%).
--The adult age group(18-50) is highest sales contributing age group.
+- Women customers are more likely to buy product than Men(~69%).
+- Maharasthra,Karnataka,Utter Pradesh are top 3 product buying states in India in 2022.
+- Most of the orders are posted through Amazon,Myntra and Flipkart chanel.
+- January, February and March in this 3 months customers posted maximum numbers of orders.
+- Maximum numbers of ordered are delevered.(~92%).
+- The adult age group(18-50) is highest sales contributing age group.
 
