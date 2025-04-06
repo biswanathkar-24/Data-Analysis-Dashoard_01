@@ -32,3 +32,5 @@ This is the output dashoard.To see click on
 - Maximum numbers of ordered are delevered.(~92%).
 - The adult age group(18-50) is highest sales contributing age group.
 
+## Conclusion
+Based on the insights the store have to change marketing plan for better sales.
